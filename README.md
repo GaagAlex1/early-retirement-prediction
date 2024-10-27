@@ -2,5 +2,4 @@
 
  - train.ipynb - ноутбук обучения модели
  - submission.py - скрипт для создания submission.csv
- - best.cbm - лучшие веса модели
 
